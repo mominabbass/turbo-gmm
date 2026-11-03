@@ -2,7 +2,7 @@
 
 🚀 **(Arguably) the fastest GPU implementation of Gaussian Mixture Models (GMMs) as of November 03, 2026.**
 
-[![paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)]()
+[![paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2611.02449)
 
 A drop-in replacement for `sklearn.mixture.GaussianMixture` that fits on the GPU.
 
@@ -130,7 +130,7 @@ If you find our work or this repository useful, please consider giving it a star
   title={Turbo-GMM: FlashAttention-Inspired GPU-Accelerated Gaussian Mixture Model},
   author={Momin Abbas and Sadia Asif and Asad Ul Haq and Kaoutar El Maghraoui},
   year={2026},
-  url={}
+  url={https://arxiv.org/abs/2611.02449}
 }
 ```
 
