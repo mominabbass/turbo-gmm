@@ -1,6 +1,6 @@
 # Turbo-GMM
 
-🚀 **(Arguably) the fastest GPU implementation of Gaussian Mixture Models (GMMs) as of November 2026.**
+🚀 **(Arguably) the fastest GPU implementation of Gaussian Mixture Models (GMMs) as of November 03, 2026.**
 
 [![paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)]()
 
