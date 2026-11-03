@@ -4,6 +4,9 @@
 
 [![paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2611.02449)
 
+[![paper](https://img.shields.io/badge/arXiv-Paper-B31B1B.svg)](https://arxiv.org/abs/2611.02449)
+[![Twitter/X](https://img.shields.io/badge/X-Tweet-black?logo=x)](https://x.com/MominAbbas2/status/2117698016299680135)
+
 A drop-in replacement for `sklearn.mixture.GaussianMixture` that fits on the GPU.
 
 ![Latency per EM iteration against seven baselines](experiments/figure1.png)
