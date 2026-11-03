@@ -1,0 +1,24 @@
+{"N": 1000000, "K": 128, "d": 32, "rung": "A1 torch lifted mat.", "ms": 8.738505654036999, "err": null, "peak_mb": 1676.586496}
+{"N": 1000000, "K": 128, "d": 32, "rung": "A2 +fused score kernel", "ms": 6.053372751921415, "err": null, "peak_mb": 1676.586496}
+{"N": 1000000, "K": 128, "d": 32, "rung": "A3 fused two-pass", "ms": 3.4400857985019684, "err": null, "peak_mb": 140.686336}
+{"N": 1000000, "K": 128, "d": 32, "rung": "A4 fused one-pass", "ms": 2.717947121709585, "err": null, "peak_mb": 136.68608}
+{"N": 1000000, "K": 1024, "d": 32, "rung": "A1 torch lifted mat.", "ms": 54.77938521653414, "err": null, "peak_mb": 12429.052416}
+{"N": 1000000, "K": 1024, "d": 32, "rung": "A2 +fused score kernel", "ms": 42.38275485113263, "err": null, "peak_mb": 12429.052416}
+{"N": 1000000, "K": 1024, "d": 32, "rung": "A3 fused two-pass", "ms": 23.296516854315996, "err": null, "peak_mb": 141.847552}
+{"N": 1000000, "K": 1024, "d": 32, "rung": "A4 fused one-pass", "ms": null, "err": "OutOfResources", "peak_mb": 137.449984}
+{"N": 4000000, "K": 32, "d": 32, "rung": "A1 torch lifted mat.", "ms": 12.102323118597269, "err": null, "peak_mb": 2072.545792}
+{"N": 4000000, "K": 32, "d": 32, "rung": "A2 +fused score kernel", "ms": 9.713786654174328, "err": null, "peak_mb": 2073.323008}
+{"N": 4000000, "K": 32, "d": 32, "rung": "A3 fused two-pass", "ms": 7.80456280335784, "err": null, "peak_mb": 537.340416}
+{"N": 4000000, "K": 32, "d": 32, "rung": "A4 fused one-pass", "ms": 3.6094198003411293, "err": null, "peak_mb": 520.5632}
+{"N": 4000000, "K": 64, "d": 16, "rung": "A1 torch lifted mat.", "ms": 16.64183894172311, "err": null, "peak_mb": 3352.537088}
+{"N": 4000000, "K": 64, "d": 16, "rung": "A2 +fused score kernel", "ms": 12.47880607843399, "err": null, "peak_mb": 3353.314304}
+{"N": 4000000, "K": 64, "d": 16, "rung": "A3 fused two-pass", "ms": 3.9191721007227898, "err": null, "peak_mb": 281.340416}
+{"N": 4000000, "K": 64, "d": 16, "rung": "A4 fused one-pass", "ms": 3.234987147152424, "err": null, "peak_mb": 264.5632}
+{"N": 4000000, "K": 16, "d": 128, "rung": "A1 torch lifted mat.", "ms": 20.585575606673956, "err": null, "peak_mb": 6411.305984}
+{"N": 4000000, "K": 16, "d": 128, "rung": "A2 +fused score kernel", "ms": 15.711546409875154, "err": null, "peak_mb": 4635.182592}
+{"N": 4000000, "K": 16, "d": 128, "rung": "A3 fused two-pass", "ms": 273.30646105110645, "err": null, "peak_mb": 2074.29888}
+{"N": 4000000, "K": 16, "d": 128, "rung": "A4 fused one-pass", "ms": 14.06800001859665, "err": null, "peak_mb": 2057.521664}
+{"N": 20000000, "K": 32, "d": 32, "rung": "A1 torch lifted mat.", "ms": 58.61794203519821, "err": null, "peak_mb": 10331.03616}
+{"N": 20000000, "K": 32, "d": 32, "rung": "A2 +fused score kernel", "ms": 42.76015097275376, "err": null, "peak_mb": 10331.03616}
+{"N": 20000000, "K": 32, "d": 32, "rung": "A3 fused two-pass", "ms": 30.964812729507685, "err": null, "peak_mb": 2649.185792}
+{"N": 20000000, "K": 32, "d": 32, "rung": "A4 fused one-pass", "ms": 13.335470575839281, "err": null, "peak_mb": 2569.185792}

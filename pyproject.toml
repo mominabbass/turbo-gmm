@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "turbo-gmm"
+version = "1.1.0"
+description = "Materialization-free Gaussian mixture EM: a fused Triton kernel"
+readme = "README.md"
+requires-python = ">=3.9"
+# No scikit-learn at run time: the default kmeans initialisation runs on the device.
+dependencies = ["torch>=2.6", "triton>=3.2", "numpy>=1.26"]
+
+[project.optional-dependencies]
+test = ["scikit-learn>=1.4", "scipy>=1.11", "mpmath>=1.3", "sympy>=1.12"]
+plot = ["matplotlib>=3.8"]
+
+[tool.setuptools]
+packages = ["turbo_gmm"]
