@@ -2,8 +2,6 @@
 
 🚀 **(Arguably) the fastest GPU implementation of Gaussian Mixture Models (GMMs) as of November 03, 2026.**
 
-[![paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2611.02449)
-
 [![paper](https://img.shields.io/badge/arXiv-Paper-B31B1B.svg)](https://arxiv.org/abs/2611.02449)
 [![Twitter/X](https://img.shields.io/badge/X-Tweet-black?logo=x)](https://x.com/MominAbbas2/status/2117698016299680135)
 
