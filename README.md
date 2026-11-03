@@ -1,7 +1,8 @@
 # Turbo-GMM
 
-[![paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)]()
+🚀 **(Arguably) the fastest GPU implementation of Gaussian Mixture Models (GMMs) as of November 2026.**
 
+[![paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)]()
 
 A drop-in replacement for `sklearn.mixture.GaussianMixture` that fits on the GPU.
 
