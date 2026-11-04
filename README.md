@@ -139,3 +139,7 @@ If you find our work or this repository useful, please consider giving it a star
 
 Should you have any inquiries, feel free to reach out via email at momin_abbas@yahoo.com .
 
+## License
+
+Apache 2.0 — see [LICENSE](LICENSE).
+
